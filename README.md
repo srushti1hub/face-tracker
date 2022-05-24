@@ -2,8 +2,8 @@
 Attendance System Project using Face Recognition
 
 ## Application Demo
-### 1. Command Line Interface Application
-### 2. Graphic User Interface Application
+#### 1. Command Line Interface Application
+#### 2. Graphic User Interface Application
 
 ## Install Dependencies
 - Run the following commands in terminal

@@ -3,7 +3,7 @@ Attendance System Project using Face Recognition
 
 ## Application Demo
 ### 1. Command Line Interface Application
-<p><img src="Demo Images/c1.png" width="500" /> <img src="Demo Images/c2.png" width="500" /> </p>
+<p><img src="Demo Images/c1.png" width="400" /> <img src="Demo Images/c2.png" width="400" /> </p>
 <p><img src="Demo Images/c3.png" width="500" /> <img src="Demo Images/c4.png" width="500" /> </p>
 
 ### 2. Graphic User Interface Application

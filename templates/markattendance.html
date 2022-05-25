@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mark Attendance</title>
+    <link rel="icon" href="web-images/favicon.png" />
+    <link rel="stylesheet" href="static/style.css" />
+  </head>
+  <body>
+    <header>
+      <div class="logo">
+        <ul>
+          <li><a href="#">Face Tracker</a></li>
+        </ul>
+      </div>
+    </header>
+
+    <div class="content" style="margin-top: 30px">
+      <div class="text" style="width: 30%">
+        <a style="margin-top: 0" href="getstarted" class="btn">Quit</a>
+      </div>
+      <img style="width: 65%" src="{{ url_for('video_feed') }}" />
+    </div>
+    <div class="wave">
+      <img src="static/web-images/wave.svg" alt="" />
+    </div>
+  </body>
+</html>

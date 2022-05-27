@@ -21,7 +21,8 @@ Setup and activate virtual environment :-
 python3 -m venv venv
 source venv/bin/activate
 ```
-- For more information you can refer to this [link](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/)
+### For Windows
+- Refer to this [link](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/)
 
 ## Install Dependencies 🚀
 - Run the following commands in terminal

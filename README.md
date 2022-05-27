@@ -12,17 +12,24 @@ This project involves building an attendance system which utilizes facial recogn
 <p><img src="Demo Images/d2.png" width="400" /> <img src="Demo Images/d3.png" width="400" /> </p>
 <p><img src="Demo Images/d4.png" width="400" /></p>
 
+## Prerequisites 🔧
+You should have python *(3.10.4)* and pip *(22.0.4)* installed on your machine.
+
+Setup and activate virtual environment :-
+### For Mac/Linux 
+```
+python3 -m venv venv
+source venv/bin/activate
+```
+- For more information you can refer to this [link](https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/)
+
 ## Install Dependencies 🚀
 - Run the following commands in terminal
 ```
-pip install cmake
-pip install dlib
-pip install numpy
-pip install opencv-python
-pip install face-recognition
-pip install Flask
-pip install gspread
+pip3 install -r requirements.txt
 ```
+Note : It may take a bit more time to install dlib (specifically running setup.py). If you are unable to install dlib refer this [link](https://github.com/ageitgey/face_recognition/issues/802#issuecomment-544232494)
+
 
 ## How to Run 💨
 After installing all dependencies run the following command in terminal or simply click run button in IDE you are using.
@@ -34,7 +41,6 @@ python main.py
 ```
 python app.py
 ```
-
 
 ## Local Deployment 😌
 - http://127.0.0.1:8000/

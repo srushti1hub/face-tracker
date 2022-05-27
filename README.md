@@ -35,11 +35,11 @@ Note : The installation of dlib *(specifically running setup.py)* will take abou
 After installing all dependencies run the following command in terminal or simply click run button in IDE you are using.
 - To run CLI based Application
 ```
-python main.py
+python3 main.py
 ```
 - To run GUI based Application
 ```
-python app.py
+python3 app.py
 ```
 
 ## Local Deployment 😌

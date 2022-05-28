@@ -29,7 +29,7 @@ source venv/bin/activate
 ```
 pip3 install -r requirements.txt
 ```
-Note : The installation of dlib *(specifically running setup.py)* will take abou 10-15 minutes. If you are unable to install dlib refer this [link](https://github.com/ageitgey/face_recognition/issues/802#issuecomment-544232494)
+Note : The installation of dlib *(specifically running setup.py)* will take about 10-15 minutes. If you are unable to install dlib refer this [link](https://github.com/ageitgey/face_recognition/issues/802#issuecomment-544232494)
 
 
 ## How to Run 💨

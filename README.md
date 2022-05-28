@@ -43,6 +43,9 @@ python3 main.py
 python3 app.py
 ```
 
+## Video Demo 📹
+- Click here to watch [demo](https://youtu.be/A5ibXEWdJzA)
+
 ## Local Deployment 😌
 - http://127.0.0.1:8000/
 
@@ -51,3 +54,5 @@ python3 app.py
 
 ## Author ✍🏼
 - Srushti Rathva
+
+<p align="center"> If you like this project show some love ❤️ by starring ⭐️ this repository ! </p>

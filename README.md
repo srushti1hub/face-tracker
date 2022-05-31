@@ -43,9 +43,6 @@ python3 main.py
 python3 app.py
 ```
 
-## Video Demo 📹
-- Click here to watch [demo](https://youtu.be/A5ibXEWdJzA)
-
 ## Local Deployment 😌
 - http://127.0.0.1:8000/
 
